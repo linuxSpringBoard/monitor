@@ -1,0 +1,34 @@
+{
+  "config": [
+    {
+      "NAME": "Service Name",
+      "ENV" : "INT",
+      "URL" : "example.com 30",
+      "TYPE": "process"
+    },  
+    {
+      "NAME": "Service Name",
+      "ENV": "INT",
+      "URL": "https://example.com:port/",
+      "TYPE": "api"
+    },
+    {
+      "NAME": "Service Name",
+      "ENV": "INT",
+      "URL": "http://example.com:port/crx/something/index.html",
+      "TYPE": "server"
+    },
+    {
+      "NAME": "Service Name",
+      "ENV": "UAT",
+      "URL": "example.com:8443",
+      "TYPE": "multiHost"
+    },
+    {
+    "NAME": "Service Name",
+      "ENV": "BETA",
+      "URL": "example.com:port",
+      "TYPE": "multiHost"
+    }
+  ]
+}
