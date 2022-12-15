@@ -9,7 +9,7 @@ This conduit project performs below actions:
 * Runs the Python script
 * Runs a python http server to host the html report
 
-Dev URL: http://dev.ecg-dashboard.gsam-sma.nimbus.gs.com:8000/report.html
+Dev URL: http://example.com:8000/report.html
 
 ### How to read the report
 ![sample-report-image](report-page.jpg)
